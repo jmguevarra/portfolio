@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'ArialRoundedMT';
+    src: url(/fonts/ArialRoundedMT-Bold.eot);
+    src: url(/fonts/ArialRoundedMT-Bold.eot#iefix) format('embedded-opentype'),
+         url(/fonts/ArialRoundedMT-Bold.ttf) format('truetype'),
+         url(/fonts/ArialRoundedMT-Bold.woff) format('woff'),
+         url(/fonts/ArialRoundedMT-Bold.woff2) format('woff2'),
+         url(/fonts/ArialRoundedMT-Bold.svg#ArialRoundedMT) format('svg');
+    font-weight: 700;
+}
